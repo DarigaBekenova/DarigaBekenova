@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm Bekenova Dariga
 PhD student in Information systems at **L.N. Gumilyov Eurasian National University** (Astana, Kazakhstan).
-Supervisor: Prof. Dhuzbayev Serik
+Supervisor: Prof. Dzhuzbayev Serik
 ## 🔬 Research interests
 - Artificial Intelligence in medicine 
 - Speech recognition for Russian
